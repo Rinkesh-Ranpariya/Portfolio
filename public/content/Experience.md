@@ -1,9 +1,13 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## BIGSCAL TECHNOLOGIES Pvt. Ltd.
+- *Software Engineer* | Jan'22 - Present
 - ![logo512](../assets/logo512.png)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - Reactjs [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Designed and developed reusable React components that increased the speed of development and improved the user experience.
+  - Implemented Redux architecture to manage the state of the application and improved its scalability and maintainability.
+  - Worked with third-party APIs and integrated them with our applications to provide better functionality and features.
+  - Collaborated with the UI/UX designers to ensure that the application interfaces are consistent with the design specifications.
+  - Actively participated in code reviews and implemented best practices to ensure that the codebase is maintainable and scalable.
+  - Maintained the application codebase and ensured that it is up-to-date with the latest security patches and updates.
